@@ -42,10 +42,10 @@
     },
     "Wallpad": {
       "light": true,
-      "plug": true,
-      "thermostat": true,
+      "plug": false,
+      "thermostat": false,
       "fan": true,
-      "gas": true,
+      "gas": false,
       "elevator": true
     },
     "Advanced": {
