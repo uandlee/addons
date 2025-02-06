@@ -23,7 +23,7 @@
     },
     "Socket": {
       "server": "192.168.0.142",
-      "port": 9988
+      "port": 8899
     },
     "SocketDevice": {
       "device": "kocom"
@@ -45,7 +45,7 @@
       "plug": true,
       "thermostat": true,
       "fan": true,
-      "gas": false,
+      "gas": true,
       "elevator": true
     },
     "Advanced": {
